@@ -1,6 +1,8 @@
 /*
  * Historie:
+ *
  * Github pull request
+ * commit
 */
 #include "MainWindow.h"
 #include <QMessageBox>
