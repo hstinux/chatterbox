@@ -1,3 +1,7 @@
+/*
+ * Historie:
+ * Github pull request
+*/
 #include "MainWindow.h"
 #include <QMessageBox>
 // We'll need some regular expression magic in this code:
