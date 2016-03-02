@@ -61,7 +61,7 @@ border-radius: 25px;
        </sizepolicy>
       </property>
       <property name="text">
-       <string>Box</string>
+       <string>Box Version 1.0</string>
       </property>
      </widget>
     </item>
